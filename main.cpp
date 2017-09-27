@@ -1,3 +1,4 @@
+//Authors: Madi Phillips, Motlaq Alnassafi, Sohail Alsamahi, Eisa Alkaabi 
 #include<iostream>
 #include<string>
 #include<vector>
